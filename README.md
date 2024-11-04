@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ## ⚙️技術
-- プログラミング言語: Python, C/C++/C#, PHP, Perl, sh, awk, PowerShell, Lisp
+- プログラミング言語: Python, C/C++/C#, PHP, Perl, sh, awk, PowerShell, Java, Lisp
 - 数理最適化
 ## 🌱関心
 防災、地理空間情報、ゲーム理論、統計、高等教育論
@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 ##😍趣味
 だんな、マンガ、高等教育論
 ## 📫 連絡先
-- [LinkedIn](https://www.linkedin.com/in/akiyama-katsumi/)
 - [X](https://x.com/plantarum)
 - [Facebook](https://www.facebook.com/akiyama.katsumi)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [LinkedIn](https://www.linkedin.com/in/akiyama-katsumi/)
 
