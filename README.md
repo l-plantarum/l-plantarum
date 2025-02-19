@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - [アラフィフでも情報系を勉強する女子大生](https://qiita.com/plantarum/items/f0279ffce288e662b030)
 ## 📎論文・学会発表
 - [大学受験生の行動をソーシャルメディアから分析する](https://www.ieice.org/publications/ken/summary.php?contribution_id=112135)(第17回テキストアナリティクスシンポジウム)
-- [量子アニーリングマシンによる作業平準化への適用の実践](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=225028&item_no=1)(情報処理学会量子ソフトウェア研究会)
+- [量子アニーリングマシンなぜ災害対策が経営改善に繋がるのか～中小企業にもBCPのススメ～による作業平準化への適用の実践](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=225028&item_no=1)(情報処理学会量子ソフトウェア研究会)
 - [平成30年西日本豪雨災害後の定期避難意識調査の概要](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402281995029336)(日本災害情報学会)
+## 講演実績
+- [なぜ災害対策が経営改善に繋がるのか～中小企業にもBCPのススメ～](https://youtu.be/p8fQykoIlM8?si=OHbsqNhp3mGRVK7X)
 ## 🪙資格
 - 登録セキスぺ(情報安全確保支援士)
 - ITストラテジスト
