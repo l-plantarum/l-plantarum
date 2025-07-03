@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ## ⚙️技術
-- プログラミング言語: Python, C/C++/C#, PHP, Perl, sh, awk, PowerShell, Java, Lisp
+- プログラミング言語: Python, C/C++/C#, PHP, Perl, sh/csh, awk, PowerShell, Java, Lisp
 - 数理最適化
 ## 🌱関心
 防災、地理空間情報、ゲーム理論、統計、高等教育論
 ## 🗣️講演実績
 - 2025/02/10 なぜ災害対策が経営改善に繋がるのか～中小企業にもBCPのススメ～
   [告知](https://smebcp20250210.peatix.com/view) [動画](https://youtu.be/p8fQykoIlM8?si=OHbsqNhp3mGRVK7X)
+- 数理最適化のお話(CDLEひろしま第二回LT会、第99回すごい広島)
 ## 🧻記事
 - [マーケットデザイン(制度設計の科学)紹介](https://qiita.com/plantarum/items/9449c2cd4a908fecb9ac)
 - [アラフィフでも情報系を勉強する女子大生](https://qiita.com/plantarum/items/f0279ffce288e662b030)
