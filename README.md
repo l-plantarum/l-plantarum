@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - MBA(経営専門職修士)
 - 防災士
 - 数検準一級
+- AWS(AWS Certified Solutions Architect - Associate)
 ## 😍趣味
 だんな、マンガ、高等教育論
 ## 📫 連絡先
