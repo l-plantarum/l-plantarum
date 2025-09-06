@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 - [IPAセキュリティプレゼンター](https://www.ipa.go.jp/security/sme/presenter/index.html)
 - [PyCon JP 2025主催メンバー](https://2025.pycon.jp/ja)
 - 県立広島大学 SMOフロンティア研究所　プロジェクトサポーター
+- [情報処理学会](https://www.ipsj.or.jp/) [日本災害情報学会](http://www.jasdis.gr.jp/)
 ## 😍趣味
 だんな、マンガ、高等教育論
 ## 📫 連絡先
