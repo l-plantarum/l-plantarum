@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 数理最適化のお話([CDLEひろしま第二回LT会](https://pycon-hiroshima.connpass.com/event/358667/)、[第99回すごい広島](https://pycon-hiroshima.connpass.com/event/358667/))
 - BCPを作ろう!(ぼうさいこくたい2025)
   [YouTube動画](https://youtu.be/i9aEv_FQouU?si=xXDsDE-aXWcIq8rR)
+- PyCon JP 2025にスタッフとして参加して([CDLEひろしま第五回勉強会](https://cdle-hiroshima.connpass.com/event/371313/), [第103回すごい広島](https://pycon-hiroshima.connpass.com/event/370884/))
 ## 🧻記事
 - [マーケットデザイン(制度設計の科学)紹介](https://qiita.com/plantarum/items/9449c2cd4a908fecb9ac)
 - [アラフィフでも情報系を勉強する女子大生](https://qiita.com/plantarum/items/f0279ffce288e662b030)
