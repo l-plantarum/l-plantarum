@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 - [大学受験生の行動をソーシャルメディアから分析する](https://www.ieice.org/publications/ken/summary.php?contribution_id=112135)(第17回テキストアナリティクスシンポジウム)
 - [量子アニーリングマシンによる作業平準化への適用の実践](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=225028&item_no=1)(情報処理学会量子ソフトウェア研究会)
 - [平成30年西日本豪雨災害後の定期避難意識調査の概要](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202402281995029336)(日本災害情報学会)
+- [量子アニーリングマシンを活用した統計データに基づく交通流平準化の研究](https://www.jstage.jst.go.jp/article/torsj/68/0/68_91/_article/-char/ja/)(査読論文)
 ## 💼所属
 - 株式会社アイギス研究所 代表取締役
-- NECソリューションイノベータ(2025/10/31まで能力開発休暇中)
+- NECソリューションイノベータ(2025/10/30退職)
 ## 🪙資格
 - 登録セキスぺ(情報安全確保支援士)
 - ITストラテジスト
